@@ -9,10 +9,13 @@ redirect_from:
 ---
 
 My name is Hui(Marcus) Shen, a 3rd-year undergraduate student at The Ohio State University.
+&nbsp;
+&nbsp;
 
 Updates
 ======
-* Apr. 2023: **Research Assistant** @ AIoT & Machine Learning System Lab, advised by Prof. Mi Zhang.
-* Jan. 2023: I am pursuing my Bachelor's degree in **Computer Science & Engineering** at The Ohio State University. It's so lucky to be a Buckeye!
+* Sep. 2023: **Research Assistant** advised by [Prof. Jingbo Meng](https://sites.google.com/view/jingbomeng).
+* Apr. 2023: **Research Assistant** @ [AIoT & Machine Learning System Lab](https://aiot-mlsys-lab.github.io/), advised by [Prof. Mi Zhang](https://mi-zhang.github.io/).
+* Jan. 2023: I am pursuing my Bachelor's degree in **Computer Science & Engineering** at The Ohio State University.
 * Jun. 2022: **Information Technology Intern** @ Swire Coca-Cola China
 

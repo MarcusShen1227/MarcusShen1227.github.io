@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hui Shen"
+  name             : "Hui(Marcus) Shen"
   avatar           : "Marcus.jpg"
   bio              : "Self Control."
   location         : "Columbus, OH"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=iblw0zoAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
