@@ -19,7 +19,7 @@ My name is Hui(Marcus) Shen, a 3rd-year undergraduate student at The Ohio State 
 * Jun. 2022: **Information Technology Intern** @ Swire Coca-Cola China
 
 ## Publications:
-1. Samiul Alam, Tuo Zhang, Tiantian Feng, **Hui Shen**, Zhichao Cao, Dong Zhao, JeongGil Ko, Kiran Somasundaram, Shrikanth S Narayanan, Salman Avestimehr, Mi Zhang. <u>FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things</u>. arXiv preprint 2023. <br /> [Paper](https://arxiv.org/pdf/2310.00109.pdf); [Code](https://github.com/AIoT-MLSys-Lab/FedAIoT)
+1. Samiul Alam, Tuo Zhang, Tiantian Feng, **Hui Shen**, Zhichao Cao, Dong Zhao, JeongGil Ko, Kiran Somasundaram, Shrikanth S Narayanan, Salman Avestimehr, Mi Zhang. <u>FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things</u>. arXiv preprint 2023. <br /> [[Paper](https://arxiv.org/pdf/2310.00109.pdf)]; [[Code](https://github.com/AIoT-MLSys-Lab/FedAIoT)]
 
 
 ## Research Experience:

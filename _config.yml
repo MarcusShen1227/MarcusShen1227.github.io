@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hui Shen's Website"
+title                    : "Hui's Website"
 title_separator          : "-"
 name                     : &name "Hui Shen"
 description              : &description "personal description"
