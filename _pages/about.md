@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Hui(Marcus) Shen, a 3rd-year undergraduate student at The Ohio State University.
+## About Me:
+I am a 3rd-year undergraduate student at [The Ohio State University](https://www.osu.edu/).
 <br />
 <br />
 
 ## Updates:
 * Sep. 2023: **Research Assistant** advised by Prof. [Jingbo Meng](https://sites.google.com/view/jingbomeng).
 * Apr. 2023: **Research Assistant** @ [AIoT & Machine Learning System Lab](https://aiot-mlsys-lab.github.io/), advised by Prof. [Mi Zhang](https://mi-zhang.github.io/).
-* Jan. 2023: I am pursuing my Bachelor's degree in **Computer Science & Engineering** at The Ohio State University.
 * Jun. 2022: **Information Technology Intern** @ Swire Coca-Cola China
 
 ## Publications:
@@ -31,7 +31,7 @@ My name is Hui(Marcus) Shen, a 3rd-year undergraduate student at The Ohio State 
   Apr 2023 - Present
 
 ## Services:
-* **Reviewer**: IEEE Transactions on Mobile Computing
+* **Journal Reviewer**: IEEE Transactions on Mobile Computing
 
 ## Contact:
-* **Email**: shen.1780 (at) osu (dot) edu
+* **Email**: shen (dot) 1780 (at) osu (dot) edu
