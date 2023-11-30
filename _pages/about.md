@@ -33,4 +33,4 @@ My name is Hui Shen, a 3rd-year undergrad student at [The Ohio State University]
 ## Contact:
 * **Email**: shen (dot) 1780 (at) osu (dot) edu
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=300&t=tt&d=73bfpiEtHFFHMFzOQY5gk7O9ln815iPEqFytwcJVQPQ&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ylwccp2z0z&amp;m=8&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=33&amp;z=11" async="async"></script>
