@@ -22,10 +22,10 @@ My name is Hui Shen, a 3rd-year undergrad student at [The Ohio State University]
 ## Research Experience:
 * **Research Assistant** @ The Ohio State University.<br />
   Advised by Prof. [Jingbo Meng](https://sites.google.com/view/jingbomeng).<br />
-  Sep 2023 - Present 
+  Sep. 2023 - Present 
 * **Research Assistant** @ The Ohio State University.<br />
   Advised by Prof. [Mi Zhang](https://mi-zhang.github.io/).<br />
-  Apr 2023 - Present
+  Apr. 2023 - Present
 
 ## Services:
 * **Journal Reviewer**: IEEE Transactions on Mobile Computing
