@@ -33,4 +33,7 @@ My name is Hui Shen, a 3rd-year undergrad student at [The Ohio State University]
 ## Contact:
 * **Email**: shen (dot) 1780 (at) osu (dot) edu
 
+
+### Visit Statistics:
+
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5ylwccp2z0z&amp;m=8&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=33&amp;z=11" async="async"></script>
