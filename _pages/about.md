@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About Me:
-I am a 3rd-year undergraduate student at [The Ohio State University](https://www.osu.edu/).<br/>
+My name is Hui Shen, a 3rd-year undergraduate student at [The Ohio State University](https://www.osu.edu/).<br/>
 **I am now actively preparing my Ph.D. application in 2025.** Appreciate any opportunities or referrals!
 <br />
 
