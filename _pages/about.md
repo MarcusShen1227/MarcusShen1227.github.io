@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 My name is Hui Shen, a 3rd-year undergrad student at [The Ohio State University](https://www.osu.edu/).<br/>
-**I am now actively preparing my Ph.D. application in 2025.** Appreciate any opportunities or referrals!
+**I am now actively preparing my Ph.D. application for 2025.** Appreciate any opportunities or referrals!
 <br />
 
 ## Updates:
