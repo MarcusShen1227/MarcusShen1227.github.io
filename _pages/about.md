@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 ## About Me:
-I am a 3rd-year undergraduate student at [The Ohio State University](https://www.osu.edu/).
-<br />
+I am a 3rd-year undergraduate student at [The Ohio State University](https://www.osu.edu/).<br/>
+**I am now actively preparing my Ph.D. application in 2025.** Appreciate any opportunities or referrals!
 <br />
 
 ## Updates:
@@ -20,7 +20,6 @@ I am a 3rd-year undergraduate student at [The Ohio State University](https://www
 
 ## Publications:
 1. Samiul Alam, Tuo Zhang, Tiantian Feng, **Hui Shen**, Zhichao Cao, Dong Zhao, JeongGil Ko, Kiran Somasundaram, Shrikanth S Narayanan, Salman Avestimehr, Mi Zhang. <u>FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things</u>. arXiv preprint 2023. <br /> [[Paper](https://arxiv.org/pdf/2310.00109.pdf)]; [[Code](https://github.com/AIoT-MLSys-Lab/FedAIoT)]
-
 
 ## Research Experience:
 * **Research Assistant** @ The Ohio State University.<br />
