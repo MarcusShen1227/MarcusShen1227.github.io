@@ -17,7 +17,8 @@ My name is Hui Shen, a 3rd-year undergrad student at [The Ohio State University]
 * Jun. 2022: **Information Technology Intern** @ Swire Coca-Cola China
 
 ## Publications:
-1. Samiul Alam, Tuo Zhang, Tiantian Feng, **Hui Shen**, Zhichao Cao, Dong Zhao, JeongGil Ko, Kiran Somasundaram, Shrikanth S Narayanan, Salman Avestimehr, Mi Zhang. <u>FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things</u>. arXiv preprint 2023. <br /> [[Paper](https://arxiv.org/pdf/2310.00109.pdf)]; [[Code](https://github.com/AIoT-MLSys-Lab/FedAIoT)]
+1. Samiul Alam, Tuo Zhang, Tiantian Feng, **Hui Shen**, Zhichao Cao, Dong Zhao, JeongGil Ko, Kiran Somasundaram, Shrikanth S Narayanan, Salman Avestimehr, Mi Zhang. <u>FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things</u>. arXiv preprint arXiv:2310.00109. <br /> [[Paper](https://arxiv.org/pdf/2310.00109.pdf)]; [[Code](https://github.com/AIoT-MLSys-Lab/FedAIoT)]
+2. Zhongwei Wan, Che Liu, Xin Wang, Chaofan Tao, **Hui Shen**, Zhenwu Peng, Jie Fu, Rossella Arcucci, Huaxiu Yao, Mi Zhang. <u>Electrocardiogram Instruction Tuning for Report Generation</u>. arXiv preprint arXiv:2403.04945. <br /> [[Paper](https://arxiv.org/pdf/2403.04945.pdf)]
 
 ## Research Experience:
 * **Research Assistant** @ The Ohio State University.<br />
