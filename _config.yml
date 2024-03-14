@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hui (Marcus) Shen"
+title                    : "Hui's Website"
 title_separator          : "-"
-name                     : &name "Hui (Marcus) Shen"
-description              : &description "B.S. Student at The Ohio State University"
-url                      : https://marcusshen1227.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Hui Shen"
+description              : &description "Hui Shen, Marcus Shen, OSU, The Ohio State University"
+url                      : https://marcusshen1227.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MarcusShen1227/MarcusShen1227.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hui (Marcus) Shen"
-  avatar           : "Avatar.JPG"
-  bio              : "B.S. Student at The Ohio State University"
+  name             : "Hui(Marcus) Shen"
+  avatar           : "Marcus.jpg"
+  bio              : "沈汇"
   location         : "Columbus, OH"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=iblw0zoAAAAJ&hl=en"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "NastyMarcus"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "qinyan_hai"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "hui-shen-8b4a86260"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
