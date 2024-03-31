@@ -175,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  CV:
+    output: true
+    permalink: /files/Marcus_Shen_CV.pdf
   # teaching:
   #   output: true
   #   permalink: /:collection/:path/
