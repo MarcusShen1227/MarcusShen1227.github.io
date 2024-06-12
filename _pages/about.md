@@ -17,10 +17,10 @@ My name is Hui Shen, a senior undergrad student at [The Ohio State University](h
 * Jun. 2022: **Information Technology Intern** @ Swire Coca-Cola China
 
 ## Publications:
-1. Samiul Alam, Tuo Zhang, Tiantian Feng, **Hui Shen**, Zhichao Cao, Dong Zhao, JeongGil Ko, Kiran Somasundaram, Shrikanth S Narayanan, Salman Avestimehr, Mi Zhang. <u>FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things</u>. arXiv preprint arXiv:2310.00109. <br /> [[Paper](https://arxiv.org/pdf/2310.00109.pdf)]; [[Code](https://github.com/AIoT-MLSys-Lab/FedAIoT)]
-2. Shakhrul Iman Siam, Hyunho Ahn, Li Liu, Samiul Alam, **Hui Shen**, Zhichao Cao, Bhaskar Krish-namachari, Mani Srivastava, and Mi Zhang. <u>Artificial Intelligence of Things: A Survey</u>.  Under review.
-3. Zhongwei Wan, Che Liu, Xin Wang, Chaofan Tao, **Hui Shen**, Zhenwu Peng, Jie Fu, Rossella Arcucci, Huaxiu Yao, Mi Zhang. <u>Electrocardiogram Instruction Tuning for Report Generation</u>. arXiv preprint arXiv:2403.04945. <br /> [[Paper](https://arxiv.org/pdf/2403.04945.pdf)]
-4. Che Liu, Zhongwei Wan, Yuqi Wang, **Hui Shen**, Haozhe Wang, Kangyu Zheng, Mi Zhang, Rossella Arcucci. <u>Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images</u>.  arXiv preprint arXiv:2406.07146. <br /> [[Paper](https://arxiv.org/pdf/2406.07146)]
+1. Samiul Alam, Tuo Zhang, Tiantian Feng, **Hui Shen**, Zhichao Cao, Dong Zhao, JeongGil Ko, Kiran Somasundaram, Shrikanth S Narayanan, Salman Avestimehr, Mi Zhang. <u>FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things</u>.<br /> arXiv preprint arXiv:2310.00109. <br /> [[Paper](https://arxiv.org/pdf/2310.00109.pdf)]; [[Code](https://github.com/AIoT-MLSys-Lab/FedAIoT)]
+2. Shakhrul Iman Siam, Hyunho Ahn, Li Liu, Samiul Alam, **Hui Shen**, Zhichao Cao, Bhaskar Krish-namachari, Mani Srivastava, and Mi Zhang. <u>Artificial Intelligence of Things: A Survey</u>.  <br />Under review.
+3. Zhongwei Wan, Che Liu, Xin Wang, Chaofan Tao, **Hui Shen**, Zhenwu Peng, Jie Fu, Rossella Arcucci, Huaxiu Yao, Mi Zhang. <u>Electrocardiogram Instruction Tuning for Report Generation</u>. <br />arXiv preprint arXiv:2403.04945. <br /> [[Paper](https://arxiv.org/pdf/2403.04945.pdf)]
+4. Che Liu, Zhongwei Wan, Yuqi Wang, **Hui Shen**, Haozhe Wang, Kangyu Zheng, Mi Zhang, Rossella Arcucci. <u>Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images</u>. <br />arXiv preprint arXiv:2406.07146. <br /> [[Paper](https://arxiv.org/pdf/2406.07146)]
 
 ## Research Experience:
 * **Research Assistant** @ The Ohio State University.<br />
