@@ -32,6 +32,7 @@ My name is Hui Shen, a senior undergrad student at [The Ohio State University](h
 
 ## Services:
 * **Journal Reviewer**: IEEE Transactions on Mobile Computing
+* **Conference Reviewer**: EMNLP
 
 ## Contact:
 * **Email**: shen (dot) 1780 (at) osu (dot) edu
