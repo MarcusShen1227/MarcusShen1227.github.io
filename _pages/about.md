@@ -12,7 +12,7 @@ My name is Hui Shen, a senior undergrad student at [The Ohio State University](h
 <br />
 
 ## Updates:
-* Aug. 2024: Our paper *Artificial Intelligence of Things: A Survey* has been accepted by Transactions on Sensor Networks.
+* Aug. 2024: Our paper *Artificial Intelligence of Things: A Survey* has been accepted by ACM Transactions on Sensor Networks (TOSN).
 * Aug. 2024: Our paper *Famba-V: Fast Vision Mamba with Sparse Fusion-based Visual Representation* has been accepted by ECCV 2024 The Fourth Workshop on Computational Aspects of Deep Learning (CADL).
 * Sep. 2023: **Research Assistant** advised by Prof. [Jingbo Meng](https://sites.google.com/view/jingbomeng).
 * Apr. 2023: **Research Assistant** @ [AIoT & Machine Learning System Lab](https://aiot-mlsys-lab.github.io/), advised by Prof. [Mi Zhang](https://mi-zhang.github.io/).
@@ -20,7 +20,7 @@ My name is Hui Shen, a senior undergrad student at [The Ohio State University](h
 
 ## Publications:
 1. Samiul Alam, Tuo Zhang, Tiantian Feng, **Hui Shen**, Zhichao Cao, Dong Zhao, JeongGil Ko, Kiran Somasundaram, Shrikanth S Narayanan, Salman Avestimehr, Mi Zhang. <u>FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things</u>.<br /> Journal of Data-centric Machine Learning Research (DMLR) <br /> [[Paper](https://arxiv.org/pdf/2310.00109.pdf)]; [[Code](https://github.com/AIoT-MLSys-Lab/FedAIoT)]
-2. Shakhrul Iman Siam, Hyunho Ahn, Li Liu, Samiul Alam, **Hui Shen**, Zhichao Cao, Bhaskar Krish-namachari, Mani Srivastava, and Mi Zhang. <u>Artificial Intelligence of Things: A Survey</u>.  <br />Transactions on Sensor Networks
+2. Shakhrul Iman Siam, Hyunho Ahn, Li Liu, Samiul Alam, **Hui Shen**, Zhichao Cao, Bhaskar Krish-namachari, Mani Srivastava, and Mi Zhang. <u>Artificial Intelligence of Things: A Survey</u>.  <br />ACM Transactions on Sensor Networks (TOSN)
 3. Zhongwei Wan, Che Liu, Xin Wang, Chaofan Tao, **Hui Shen**, Zhenwu Peng, Jie Fu, Rossella Arcucci, Huaxiu Yao, Mi Zhang. <u>Electrocardiogram Instruction Tuning for Report Generation</u>. <br />arXiv preprint arXiv:2403.04945. <br /> [[Paper](https://arxiv.org/pdf/2403.04945.pdf)]
 4. Che Liu, Zhongwei Wan, Yuqi Wang, **Hui Shen**, Haozhe Wang, Kangyu Zheng, Mi Zhang, Rossella Arcucci. <u>Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images</u>. <br />arXiv preprint arXiv:2406.07146. <br /> [[Paper](https://arxiv.org/pdf/2406.07146)]
 5. **Hui Shen**, Zhongwei Wan, Xin Wang, Mi Zhang. <u>Famba-V: Fast Vision Mamba with Sparse Fusion-based Visual Representation</u>. <br />ECCV 2024 The Fourth Workshop on Computational Aspects of Deep Learning (CADL) <br />
