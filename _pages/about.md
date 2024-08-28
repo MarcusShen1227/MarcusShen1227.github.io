@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Hui Shen, a senior undergrad student at [The Ohio State University](https://www.osu.edu/).<br/>
+I am Hui Shen (沈汇), a senior undergrad student at [The Ohio State University](https://www.osu.edu/). I am fortunately advised by Prof. [Mi Zhang](https://mi-zhang.github.io/) at [AIoT & Machine Learning System Lab](https://aiot-mlsys-lab.github.io/).
+My current research interests focus on Efficient AI, Large Language Models and Edge AI. <br/>
 **I am now actively preparing my Ph.D. application for 2025.** Appreciate any opportunities or referrals!
 <br />
 
@@ -40,6 +41,9 @@ My name is Hui Shen, a senior undergrad student at [The Ohio State University](h
 ## Contact:
 * **Email**: shen (dot) 1780 (at) osu (dot) edu
 
+## Teaching:
+* **Teaching Assistant** @ The Ohio State University.<br />
+  Fall 2024: Introduction to Digital Logic (ECE 2060)
 
 ### Visit Statistics:
 
