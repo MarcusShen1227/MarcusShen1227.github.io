@@ -20,11 +20,12 @@ My current research interests focus on Efficient AI, Large Language Models and E
 * Jun. 2022: **Information Technology Intern** @ Swire Coca-Cola China
 
 ## Publications:
-1. <u>FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things</u>. <br /> Samiul Alam, Tuo Zhang, Tiantian Feng, **Hui Shen**, Zhichao Cao, Dong Zhao, JeongGil Ko, Kiran Somasundaram, Shrikanth S Narayanan, Salman Avestimehr, Mi Zhang. <br /> Journal of Data-centric Machine Learning Research (DMLR) <br /> [[Paper](https://arxiv.org/pdf/2310.00109.pdf)]; [[Code](https://github.com/AIoT-MLSys-Lab/FedAIoT)]
-2. <u>Artificial Intelligence of Things: A Survey</u>. <br /> Shakhrul Iman Siam, Hyunho Ahn, Li Liu, Samiul Alam, **Hui Shen**, Zhichao Cao, Bhaskar Krish-namachari, Mani Srivastava, and Mi Zhang. <br />ACM Transactions on Sensor Networks (TOSN)
-3. <u>Electrocardiogram Instruction Tuning for Report Generation</u>. <br /> Zhongwei Wan, Che Liu, Xin Wang, Chaofan Tao, **Hui Shen**, Zhenwu Peng, Jie Fu, Rossella Arcucci, Huaxiu Yao, Mi Zhang. <br />arXiv preprint arXiv:2403.04945. <br /> [[Paper](https://arxiv.org/pdf/2403.04945.pdf)]
-4. <u>Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images</u>. <br /> Che Liu, Zhongwei Wan, Yuqi Wang, **Hui Shen**, Haozhe Wang, Kangyu Zheng, Mi Zhang, Rossella Arcucci.  <br />arXiv preprint arXiv:2406.07146. <br /> [[Paper](https://arxiv.org/pdf/2406.07146)]
-5. <u>Famba-V: Fast Vision Mamba with Sparse Fusion-based Visual Representation</u>. <br /> **Hui Shen**, Zhongwei Wan, Xin Wang, Mi Zhang.  <br />ECCV 2024 The Fourth Workshop on Computational Aspects of Deep Learning (CADL) <br />
+1. <u>Famba-V: Fast Vision Mamba with Sparse Fusion-based Visual Representation</u>. <br /> **Hui Shen**, Zhongwei Wan, Xin Wang, Mi Zhang.  <br />ECCV 2024 The Fourth Workshop on Computational Aspects of Deep Learning (**Best Paper Candidate**) <br />
+2. <u>Artificial Intelligence of Things: A Survey</u>. <br /> Shakhrul Iman Siam, Hyunho Ahn, Li Liu, Samiul Alam, **Hui Shen**, Zhichao Cao, Bhaskar Krish-namachari, Mani Srivastava, and Mi Zhang. <br />ACM Transactions on Sensor Networks <br /> [[Paper](https://mi-zhang.github.io/papers/2024_ACMTOSN_AIoTSurvey.pdf)]; [[Github Repo](https://github.com/AIoT-MLSys-Lab/AIoT-Survey)]
+3. <u>FedAIoT: A Federated Learning Benchmark for Artificial Intelligence of Things</u>. <br /> Samiul Alam, Tuo Zhang, Tiantian Feng, **Hui Shen**, Zhichao Cao, Dong Zhao, JeongGil Ko, Kiran Somasundaram, Shrikanth S Narayanan, Salman Avestimehr, Mi Zhang. <br /> Journal of Data-centric Machine Learning Research <br /> [[Paper](https://arxiv.org/pdf/2310.00109.pdf)]; [[Code](https://github.com/AIoT-MLSys-Lab/FedAIoT)]
+4. <u>Electrocardiogram Instruction Tuning for Report Generation</u>. <br /> Zhongwei Wan, Che Liu, Xin Wang, Chaofan Tao, **Hui Shen**, Zhenwu Peng, Jie Fu, Rossella Arcucci, Huaxiu Yao, Mi Zhang. <br />arXiv preprint arXiv:2403.04945. <br /> [[Paper](https://arxiv.org/pdf/2403.04945.pdf)]
+5. <u>Benchmarking and Boosting Radiology Report Generation for 3D High-Resolution Medical Images</u>. <br /> Che Liu, Zhongwei Wan, Yuqi Wang, **Hui Shen**, Haozhe Wang, Kangyu Zheng, Mi Zhang, Rossella Arcucci.  <br />arXiv preprint arXiv:2406.07146. <br /> [[Paper](https://arxiv.org/pdf/2406.07146)]
+
 
 ## Research Experience:
 * **Research Assistant** @ The Ohio State University.<br />
